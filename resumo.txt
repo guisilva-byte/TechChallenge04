@@ -1,0 +1,17 @@
+Total de frames analisados: 110
+Número de anomalias detectadas: 4
+
+Resumo das Emoções Detectadas:
+- happy: detectada 37 vezes.
+- sad: detectada 30 vezes.
+- neutral: detectada 25 vezes.
+- fear: detectada 11 vezes.
+- surprise: detectada 5 vezes.
+- angry: detectada 4 vezes.
+
+Resumo das Atividades Detectadas:
+- Em Pé: detectada 38 vezes.
+- Sentado: detectada 31 vezes.
+- Nenhuma pessoa detectada: detectada 29 vezes.
+- Braços Levantados: detectada 8 vezes.
+- Atividade Desconhecida: detectada 4 vezes.
